@@ -1,5 +1,5 @@
-# TCP-Mobility-Improvement-using-SDN
-TCP Performance Improvement over Wireless Links using SDN
+# Mobility-Improvement-using-SDN
+TCP and non-TCP Performance Improvement over Wireless Links using SDN
 
 ## What it does
 
